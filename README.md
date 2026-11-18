@@ -98,6 +98,7 @@ This is the part most guides skip, and the part that costs people money when the
 - **Wrong wallet.** A prize sent to a wallet you do not control is gone. Double-check the address character by character before confirming a claim.
 - **Missed window.** Claims expire. The escrow does not hold your prize forever.
 - **Unverified signup.** If the signup that earned your rank is later found unverified or fake, the rank — and the prize — can be taken away. Only bring real humans.
+- **Phishing claim pages.** Only claim from the official make.fun site or the official CLI flow. A link in a random DM that asks you to "claim your prize" by connecting a wallet and signing an unknown transaction is a drain attempt — close it and go to the bounty page yourself.
 
 ## Step 7 — The escrow, in plain language
 
